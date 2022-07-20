@@ -90,6 +90,7 @@ service {
   color: #666;
   word-spacing: 2px;
   line-height: 25px;
+  margin-bottom: 20px;
 }
 .service {
   background-color: #f9f9f9;
@@ -149,6 +150,10 @@ footer {
   border-right-color: green;
   border-bottom-color: green;
   animation: puterin 0.8s linear infinite;
+}
+.label {
+  background-color: green;
+  color: #fff;
 }
 @keyframes puterin {
   100% {
